@@ -14,3 +14,15 @@ for(int i=a;i<=b;i++){
     printf("\n");
 return 0;
 }
+//OUTPUT
+// AAROHI MANDAL 
+// RU-25-10013
+// Enter the first number: 12
+// Enter the second number: 17
+// Number between 12 and 17 are:
+// 12
+// 13
+// 14
+// 15
+// 16
+// 17

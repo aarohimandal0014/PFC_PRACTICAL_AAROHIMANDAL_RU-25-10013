@@ -16,3 +16,14 @@ int main(){
         printf("*");
     printf("\n");
     }return 0;}
+// OUTPUT 
+// AAROHI MANDAL 
+// RU-25-10013
+// Enter number: 4
+// *******
+//  *****
+//   ***
+//    *
+//   ***
+//  *****
+// *******

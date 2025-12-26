@@ -12,3 +12,10 @@ int main(){
         printf("\n");}
         return 0;
     }
+//OUTPUT
+//AAROHI MANDAL 
+//RU-25-10013
+//A
+//AB
+//ABC
+//ABCD 

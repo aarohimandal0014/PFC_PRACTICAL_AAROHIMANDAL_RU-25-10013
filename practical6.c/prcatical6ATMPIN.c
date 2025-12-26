@@ -7,7 +7,7 @@ int main(){
     int pin;
     int attempts=0;
     while (attempts<3){
-        printf("Enter yoy 4 digit PIN: ");
+        printf("Enter 4 digit PIN: ");
         scanf("%d",&pin);
     if(pin==correctPIN){
         printf("PIN Matched! Access Granted.\n");
@@ -17,3 +17,12 @@ int main(){
         printf("Too many wrong attempts. Your account is locked!\n");
         return 0;    
     }
+//OUTPUT
+//AAROHI MANDAL 
+//RU-25-10013
+//Enter 4 digit PIN: 1234
+// Wrong PIN! Attempts left: 2
+// Enter yoy 4 digit PIN: 2234
+// Wrong PIN! Attempts left: 1
+// Enter yoy 4 digit PIN: 1122
+// PIN Matched! Access Granted.
